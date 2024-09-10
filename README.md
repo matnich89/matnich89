@@ -29,4 +29,3 @@ Feel free to check out these repositories and contribute if you're interested in
 ## 📫 How to reach me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matnich89/)](https://www.linkedin.com/in/matnich89/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/matnich89)](https://twitter.com/matnich89)
