@@ -1,4 +1,4 @@
-# Hey, I'm Mat (Yes With 1 ) 👋
+# Hey, I'm Mat (Yes With 1 T) 👋
 
 ## 🚀 Technologies & Tools
 
