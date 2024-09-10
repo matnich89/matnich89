@@ -1,4 +1,4 @@
-# Hello, I'm Mat 👋
+# Hello, I'm [Your Name] 👋
 
 ## 🚀 Technologies & Tools
 
@@ -11,10 +11,22 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
 
+## 🚂 Featured Project: Trainstats
+
+I'm currently working on Trainstats, a comprehensive train statistics and analysis platform. This project aims to provide valuable insights into train operations, schedules, and performance metrics in real-time.
+
+### Key Repositories:
+- 🚄 [Trainstats Realtime](https://github.com/matnich89/trainstats-realtime): The core backend services for real-time data processing in Trainstats.
+- 🖥️ [Trainstats UI](https://github.com/matnich89/trainstats-ui): The user interface for Trainstats, built with modern web technologies.
+- 🏗️ [Trainstats Infra](https://github.com/matnich89/trainstats-infra): Infrastructure as Code for deploying and managing the Trainstats platform.
+
+Feel free to check out these repositories and contribute if you're interested in train data analysis, real-time systems, or improving public transportation!
+
 ## 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=matnich89&show_icons=true&theme=radical)
 
 ## 📫 How to reach me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourusername/)](https://www.linkedin.com/in/mathew-nicholls-1020a3168/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matnich89/)](https://www.linkedin.com/in/matnich89/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/matnich89)](https://twitter.com/matnich89)
