@@ -19,6 +19,7 @@ I'm currently working on Trainstats, a comprehensive train statistics and analys
 - 🚄 [Trainstats Realtime](https://github.com/matnich89/trainstats-realtime): The core backend services for real-time data processing in Trainstats.
 - 🖥️ [Trainstats UI](https://github.com/matnich89/trainstats-ui): The user interface for Trainstats, built with modern web technologies.
 - 🏗️ [Trainstats Infra](https://github.com/matnich89/trainstats-infra): Infrastructure as Code for deploying and managing the Trainstats platform.
+- 🚄 [Network Rail Client](https://github.com/matnich89/network-rail-client): Client used by Trainstats services to recieve data from Network Rail Topics   
 
 Feel free to check out these repositories and contribute if you're interested in train data analysis, real-time systems, or improving public transportation!
 
