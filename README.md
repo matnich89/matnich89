@@ -26,6 +26,10 @@ I'm currently working on Trainstats, a comprehensive train statistics and analys
 
 Feel free to check out these repositories and contribute if you're interested in train data analysis, real-time systems, or improving public transportation!
 
+## Other Projects
+- [Osrs Highscore Search Rust Library](https://github.com/matnich89/osrs-highscores-search-rust): A lttle Rust library to make interfacing with the old school runescape high scores API nice and easy
+
+
 ## 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=matnich89&show_icons=true&theme=radical)
