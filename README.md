@@ -28,6 +28,7 @@ Feel free to check out these repositories and contribute if you're interested in
 
 ## Other Projects
 - [Osrs Highscore Search Rust Library](https://github.com/matnich89/osrs-highscores-search-rust): A lttle Rust library to make interfacing with the old school runescape high scores API nice and easy
+- [Gopher-Scraper](https://github.com/matnich89/gopher-scraper): A Go based website scrapter that harvests email addreeses for pen testers to utilise
 
 
 ## 📈 GitHub Stats
