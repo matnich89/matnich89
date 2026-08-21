@@ -18,23 +18,6 @@ www.trainstats.co.uk
 
 I'm currently working on Trainstats, a comprehensive train statistics and analysis platform. This project aims to provide valuable insights into train operations, schedules, and performance metrics in real-time.
 
-### Key Repositories:
-- 🚄 [Trainstats Realtime](https://github.com/matnich89/trainstats-realtime): The core backend services for real-time data processing in Trainstats.
-- 🖥️ [Trainstats UI](https://github.com/matnich89/trainstats-ui): The user interface for Trainstats, built with modern web technologies.
-- 🏗️ [Trainstats Infra](https://github.com/matnich89/trainstats-infra): Infrastructure as Code for deploying and managing the Trainstats platform.
-- 🚄 [Network Rail Client](https://github.com/matnich89/network-rail-client): Client used by Trainstats services to recieve data from Network Rail Topics   
-
-Feel free to check out these repositories and contribute if you're interested in train data analysis, real-time systems, or improving public transportation!
-
-## Other Projects
-- [Osrs Highscore Search Rust Library](https://github.com/matnich89/osrs-highscores-search-rust): A lttle Rust library to make interfacing with the old school runescape high scores API nice and easy
-- [Gopher-Scraper](https://github.com/matnich89/gopher-scraper): A Go based website scrapter that harvests email addreeses for pen testers to utilise
-
-
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=matnich89&show_icons=true&theme=radical)
-
 ## 📫 How to reach me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matnich89/)](https://www.linkedin.com/in/matnich89/)
